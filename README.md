@@ -6,7 +6,7 @@
 <h3>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yahyakhalid12&label=Profile%20views&color=0e75b6&style=flat" alt="talib-raath" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yahyakhalid12&label=Profile%20views&color=0e75b6&style=flat" alt="Yahyakhalid12" /> </p>
 
 - 💬 Ask me about **C++ ,Python, JavaScript, Web Development,MERN Stack**
 
@@ -22,9 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yahyakhalid12&show_icons=true&locale=en&layout=compact" alt="Yahyakhalid12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talib-raath&show_icons=true&locale=en" alt="talib-raath" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yahyakhalid12&show_icons=true&locale=en" alt="Yahyakhalid12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talib-raath&" alt="talib-raath" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yahyakhalid12&" alt="Yahyakhalid12" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yahyakhalid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yahyakhalid" /></a></p><br><br>
 <br>
